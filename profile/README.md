@@ -112,5 +112,5 @@ See `.github/CONTRIBUTING.md` for full guidelines.
 
 ---
 
-© 2026 Tetcore Contributors  
+Tetcore Contributors  
 Building the substrate for sovereign intelligence.
